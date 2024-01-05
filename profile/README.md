@@ -1,13 +1,6 @@
+# YDS Dev Team
 
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-blue.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=YAMAHA.yamaha-extensionPack#contributors-:~:text=Motor%20Corperation%20USA-,Contributors,-%E2%9C%A8) ![Extensions](https://img.shields.io/badge/Extensions-30-green.svg?style=flat-square) ![Custom Extensions](https://img.shields.io/badge/Custom_Extensions-2-orange.svg?style=flat-square)
-
-
-## Introduction
-
-Welcome 
-
-
+Welcome! More content soon!
 
 ## Contributors ✨
 
@@ -27,6 +20,7 @@ Welcome
 ## Thank you!
 
 <a href=https://www.yamaha.com/><img src=https://yamaha-motor.com/images/mock-homepage/homepage_accessories_desktop_bkg_C.png /></a>
+
 <p align="center">
   <a href=https://www.yamahamotorsports.com>
     <img src='./images/y2.jpg' alt='yamaha logo blue'/>
